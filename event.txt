@@ -1,0 +1,215 @@
+[{
+		"type": "CUSTOMER",
+		"verb": "NEW",
+		"key": "96f55c7d8f42",
+		"event_time": "2017-06-06T12:46:46.384Z",
+		"last_name": "Smith",
+		"adr_city": "Middletown",
+		"adr_state": "AK"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-06T12:45:52.041Z",
+		"customer_id": "96f55c7d8f42",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-06-06T12:47:12.344Z",
+		"customer_id": "96f55c7d8f42",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-06T12:55:55.555Z",
+		"customer_id": "96f55c7d8f42",
+		"total_amount": "12.34 USD"
+	},
+	{
+		"type": "CUSTOMER",
+		"verb": “NEW”,
+		"key": "96f55c7d8f42",
+		"event_time": "2017-06-08T12:46:46.384Z",
+		"last_name": "Smith",
+		"adr_city": "Middletown",
+		"adr_state": "AK"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-08T12:45:52.041Z",
+		"customer_id": "96f55c7d8f42",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-01-08T12:47:12.344Z",
+		"customer_id": "96f55c7d8f42",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-08T12:55:55.555Z",
+		"customer_id": "96f55c7d8f42",
+		"total_amount": "52.88 USD"
+	}, {
+		"type": "CUSTOMER",
+		"verb": "NEW",
+		"key": "96f55c7d8f43",
+		"event_time": "2017-06-01T10:20:46.384Z",
+		"last_name": "Warner",
+		"adr_city": "Downtown",
+		"adr_state": "NE"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-01T10:26:52.041Z",
+		"customer_id": "96f55c7d8f43",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-06-01T10:30:12.344Z",
+		"customer_id": "96f55c7d8f43",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-01T10:45:55.555Z",
+		"customer_id": "96f55c7d8f43",
+		"total_amount": "6.24 USD"
+	}, {
+		"type": "CUSTOMER",
+		"verb": “NEW”,
+		"key": "96f55c7d8f42",
+		"event_time": "2017-06-09T10:46:46.384Z",
+		"last_name": "Smith",
+		"adr_city": "Middletown",
+		"adr_state": "AK"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-09T10:45:52.041Z",
+		"customer_id": "96f55c7d8f42",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-06-09T10:47:12.344Z",
+		"customer_id": "96f55c7d8f42",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-09T10:55:55.555Z",
+		"customer_id": "96f55c7d8f42",
+		"total_amount": "99.98 USD"
+	}, {
+		"type": "CUSTOMER",
+		"verb": “NEW”,
+		"key": "96f55c7d8f43",
+		"event_time": "2017-06-07T10:20:46.384Z",
+		"last_name": "Warner",
+		"adr_city": "Downtown",
+		"adr_state": "NE"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-07T10:26:52.041Z",
+		"customer_id": "96f55c7d8f43",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-06-07T10:30:12.344Z",
+		"customer_id": "96f55c7d8f43",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-07T10:45:55.555Z",
+		"customer_id": "96f55c7d8f43",
+		"total_amount": "14.00 USD"
+	},
+	{
+		"type": "CUSTOMER",
+		"verb": "NEW",
+		"key": "96f55c7d8f44",
+		"event_time": "2017-06-06T12:46:46.384Z",
+		"last_name": "John",
+		"adr_city": "Middletown",
+		"adr_state": "AK"
+	},
+	{
+		"type": "SITE_VISIT",
+		"verb": "NEW",
+		"key": "ac05e815502f",
+		"event_time": "2017-06-06T12:45:52.041Z",
+		"customer_id": "96f55c7d8f44",
+		"tags": [{
+			"some key": "some value"
+		}]
+	},
+	{
+		"type": "IMAGE",
+		"verb": "UPLOAD",
+		"key": "d8ede43b1d9f",
+		"event_time": "2017-06-06T12:47:12.344Z",
+		"customer_id": "96f55c7d8f44",
+		"camera_make": "Canon",
+		"camera_model": "EOS 80D"
+	},
+	{
+		"type": "ORDER",
+		"verb": "NEW",
+		"key": "68d84e5d1a43",
+		"event_time": "2017-06-06T12:55:55.555Z",
+		"customer_id": "96f55c7d8f44",
+		"total_amount": "125.86 USD"
+	}
+]
+
